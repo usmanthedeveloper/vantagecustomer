@@ -9,9 +9,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerBusinessLogic", "Cu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VantageDataAcessLayer", "VantageDataAcessLayer\VantageDataAcessLayer.csproj", "{19B376F7-2054-43D0-8DFB-959254DD3EC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAPI", "CustomerAPI\CustomerAPI.csproj", "{A8473C32-4E34-4872-987B-3692B3E59EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerAPI", "CustomerAPI\CustomerAPI.csproj", "{A8473C32-4E34-4872-987B-3692B3E59EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VantageCustomerTesting", "VantageCustomerTesting\VantageCustomerTesting.csproj", "{465082F5-2971-419B-B99D-D98AD792A1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VantageCustomerTesting", "VantageCustomerTesting\VantageCustomerTesting.csproj", "{465082F5-2971-419B-B99D-D98AD792A1A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A9C9A74-90B1-4A8C-96F0-F40203394CEB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
